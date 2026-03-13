@@ -1,15 +1,1 @@
-.feature-toggle-card{position:relative;display:flex;align-items:flex-start;gap:10px;padding:12px;background:#fff;border:1px solid #d7e6f5;border-radius:12px;transition:all .2s ease;cursor:pointer;}
-.feature-toggle-card:hover{border-color:#9dc7e8;box-shadow:0 10px 22px rgba(47,128,195,.08);transform:translateY(-1px);}
-.feature-toggle-card input{position:absolute;opacity:0;pointer-events:none;}
-.feature-toggle-card .feature-check{width:28px;height:28px;border-radius:10px;border:1.8px solid #b6d2e9;background:#f8fbff;display:flex;align-items:center;justify-content:center;color:transparent;flex:0 0 28px;margin-top:1px;box-shadow:inset 0 1px 0 rgba(255,255,255,.9);transition:all .2s ease;}
-.feature-toggle-card.active{background:linear-gradient(135deg,#f7fbff,#eef8ff);border-color:#66c7f4;box-shadow:0 12px 28px rgba(47,128,195,.12);}
-.feature-toggle-card.active .feature-check{background:linear-gradient(135deg,#2f80c3,#66c7f4);border-color:#2f80c3;color:#fff;box-shadow:0 10px 18px rgba(47,128,195,.22);}
-.feature-toggle-card.active.feature-gold{border-color:#f59e0b;background:linear-gradient(135deg,#fffaf0,#fff7e6);}
-.feature-toggle-card.active.feature-gold .feature-check{background:linear-gradient(135deg,#f59e0b,#f97316);border-color:#f59e0b;box-shadow:0 10px 18px rgba(245,158,11,.22);}
-.feature-toggle-card.active.feature-green{border-color:#22c55e;background:linear-gradient(135deg,#f3fff7,#ecfff4);}
-.feature-toggle-card.active.feature-green .feature-check{background:linear-gradient(135deg,#22c55e,#16a34a);border-color:#16a34a;box-shadow:0 10px 18px rgba(34,197,94,.2);}
-.feature-toggle-card .feature-copy{min-width:0;}
-.feature-toggle-card .feature-copy label{font-size:13px;color:#1e4e79;font-weight:800;cursor:pointer;display:block;}
-.feature-toggle-card .feature-copy p{font-size:11px;color:#5f7d99;font-weight:600;margin-top:4px;}
-.product-media-frame{width:100%;height:100%;display:flex;align-items:center;justify-content:center;overflow:hidden;}
-.product-media-frame img{width:100%;height:100%;object-fit:cover;display:block;}
+
